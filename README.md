@@ -49,4 +49,28 @@ The primary data source employed in this analysis is the "DataSale.csv" file, wh
 - Ms Power Point (For Presentation)
 
 ## Data Cleaning and Preparation
+EDA involved exploring the Data to answer some questions about the Data such as:
+  - What is overall sales trend?
+  - Which product are atop sellers?
+  - What are the product on peak sales?
 
+## Data Analysis
+This is where we include some basic lines of code or queries of the DAX expressions used during your analysis
+
+```
+SQL
+
+SELECT *
+FROM Table 1
+WHERE A, B, C = Positive integers
+
+```
+
+## Result / Findings
+![](KINGS-college.jpg)
+  This is where you put the insight gotten from the analysis
+1. The company's sales have been progressively rising from the period of a specific time.
+2. It has a set back at another point due to a particular trend that was observed along the line of analysis.
+3. Customers segment with high lifetime value can be targeted for marketing efforts.
+4. And all other observations from your analysis.
+   
