@@ -59,6 +59,7 @@ The primary data source employed in this analysis is the "DataSale.csv" file, wh
 - Ms Power Point (For Presentation)
 
 ## Data Cleaning and Preparation
+![](SkillHarvest_Stationary_Supplies teedee)
 EDA involved exploring the Data to answer some questions about the Data such as:
   - What is overall sales trend?
   - Which product are atop sellers?
