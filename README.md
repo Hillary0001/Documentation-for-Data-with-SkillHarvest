@@ -7,8 +7,8 @@ This is where I recorded my initial project during my journey of learning Data A
 - [Data Sources](#Data-Sources)
 - [Tools Used](#Tools-Used)
 - [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
-- [Data Analysis](#Data-Analyisis)
-- [Result/Findings](#Result/Finding)
+- [Data Analysis](#Data-Analysis)
+- [Result / Findings](#Result-/-Findings)
 
 
 ## Respository Overview
