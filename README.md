@@ -77,7 +77,8 @@ WHERE A, B, C = Positive integers
 ```
 
 ## Result / Findings
-![]()
+![](![Skillharvest_Visual 1](https://github.com/Hillary0001/Documentation-for-Data-with-SkillHarvest/assets/158294156/e38728ab-f6eb-4a2e-af79-816b653509d3)
+)
   This is where you put the insight gotten from the analysis
 1. The company's sales have been progressively rising from the period of a specific time.
 2. It has a set back at another point due to a particular trend that was observed along the line of analysis.
