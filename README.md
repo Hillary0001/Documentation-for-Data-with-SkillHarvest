@@ -60,9 +60,11 @@ EDA involved exploring the Data to answer some questions about the Data such as:
 
 ## Data Analysis
 This is where we include Visuals.
-![](![Skillharvest_Visual 1](https://github.com/Hillary0001/Documentation-for-Data-with-SkillHarvest/assets/158294156/9859f094-1d6b-4316-a02c-a492a4e1d1a5)
+
+![]([Skillharvest_Visual 1](https://github.com/Hillary0001/Documentation-for-Data-with-SkillHarvest/assets/158294156/9859f094-1d6b-4316-a02c-a492a4e1d1a5)
 )
-![](![Skilharvest_Visuals_2](https://github.com/Hillary0001/Documentation-for-Data-with-SkillHarvest/assets/158294156/60f858cd-0c4e-4d8b-9d08-7bdbb2a84dc6)
+
+![]([Skilharvest_Visuals_2](https://github.com/Hillary0001/Documentation-for-Data-with-SkillHarvest/assets/158294156/60f858cd-0c4e-4d8b-9d08-7bdbb2a84dc6)
 )
 
 
