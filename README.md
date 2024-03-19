@@ -6,10 +6,8 @@ This is where I recorded my initial project during my journey of learning Data A
 - [Respository Overview](#Respository-Overview)
 - [Data Sources](#Data-Sources)
 - [Tools Used](#Tools-Used)
-- [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 - [Data Analysis](#Data-Analysis)
-- [Result / Findings](#Result-/-Findings)
-
+- [Findings / Result](#Findings-/-Result)
 
 ## Respository Overview
 
@@ -45,21 +43,16 @@ Community Collaboration: Join discussions to share insights and collaborate.
 Happy Learning!
 
 ## Data Sources
-The primary data source employed in this analysis is the SkilHarvest_Stationary_Supplies teedee, which is an open-source dataset available for free download from various online platforms like Kaggle, FRED, or any other open data repository site.
+The primary data source employed in this analysis is the "SkillHarvest_Stationary_Supplies teedee" file, which is not an open-source dataset available for free download from various online platforms like Kaggle, FRED, or any other open data repository site.
 
 ## Tools Used
 - Ms Excel for Data Cleaning [Download Here](https:/www.microsoft.com)
-- SQL Server (For Querying)
-- power BI (For Reporting and Analysis)
+- Google Sheet (For Querying and Analysis)
+- power BI (Visualization)
+- Ms Power Point (For Presentation)
 
-## Data Cleaning and Preparation
-EDA involved exploring the Data to answer some questions about the Data such as:
-  - What is overall sales trend?
-  - Which product are atop sellers?
-  - What are the product on peak sales?
-
-## Data Analysis
-This is where we include Visuals.
+## Data Visualization
+This is where we include visuals
 
 ![](![Skillharvest_Visual 1](https://github.com/Hillary0001/Documentation-for-Data-with-SkillHarvest/assets/158294156/9859f094-1d6b-4316-a02c-a492a4e1d1a5)
 )
@@ -67,11 +60,16 @@ This is where we include Visuals.
 ![](![Skillharvest_Visual 2](https://github.com/Hillary0001/Documentation-for-Data-with-SkillHarvest/assets/158294156/60f858cd-0c4e-4d8b-9d08-7bdbb2a84dc6)
 )
 
+## Findings / Result
+Involved exploring the Data to answer some questions about the Data such as:
+  - Count of distinct region?
+  - Count of distict Items?
+  - Sum of sales by region?
+  - Count of sales_reps?
+  - Highest sales in 2014/2015?
+  - Lowest sales in 2014/2015?
+  - Sum of sales by years ?
+  - Sum of sales by Sales_reps ?
+  - Sum of sales by Item ?
 
-## Result / Findings
-  This is where you put the insight gotten from the analysis
-1. The company's sales have been progressively rising from the period of a specific time.
-2. It has a set back at another point due to a particular trend that was observed along the line of analysis.
-3. Customers segment with high lifetime value can be targeted for marketing efforts.
-4. And all other observations from your analysis.
-   
+
